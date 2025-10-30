@@ -115,9 +115,6 @@
 
           <div class="category-buttons mb-3">
               <button class="btn btn-primary" data-filter="all">Semua</button>
-              <button class="btn btn-secondary" data-filter="kegiatan Lomba">Lomba</button>
-              <button class="btn btn-secondary" data-filter="kegiatan Panggung">Panggung</button>
-              <button class="btn btn-secondary" data-filter="kegiatan Sosial">Sosial</button>
           </div>
 
           <div class="search-bar mb-3">
@@ -144,61 +141,61 @@
               </div>
 
               <div class="col-md-3 mb-4" data-category="kegiatan Lomba">
-                  <a href="" class="gallery-item-container">
-                      <img src="" alt="Lomba anak">
+                  <a href="img/IMG_3185.JPG" class="gallery-item-container">
+                      <img src="img/IMG_3185.JPG" alt="Lomba anak">
                   </a>
               </div>
 
               <div class="col-md-3 mb-4" data-category="kegiatan olahraga">
-                  <a href="img/[NAMA FILE FOTO 5]" class="gallery-item-container">
-                      <img src="img/[NAMA FILE FOTO 5]" alt="Lomba Agustusan">
+                  <a href="img/IMG_3186.JPG" class="gallery-item-container">
+                      <img src="img/IMG_3186.JPG" alt="Lomba Agustusan">
                   </a>
               </div>
 
               <div class="col-md-3 mb-4" data-category="kegiatan budaya">
-                  <a href="img/[NAMA FILE FOTO 6]" class="gallery-item-container">
-                      <img src="img/[NAMA FILE FOTO 6]" alt="Upacara Bendera">
+                  <a href="img/IMG_3192.JPG" class="gallery-item-container">
+                      <img src="img/IMG_3192.JPG" alt="Upacara Bendera">
                   </a>
               </div>
 
               <div class="col-md-3 mb-4" data-category="kegiatan sosial">
-                  <a href="img/[NAMA FILE FOTO 7]" class="gallery-item-container">
-                      <img src="img/[NAMA FILE FOTO 7]" alt="Gotong Royong">
+                  <a href="img/IMG_3249.JPG" class="gallery-item-container">
+                      <img src="img/IMG_3249.JPG" alt="Gotong Royong">
                   </a>
               </div>
 
               <div class="col-md-3 mb-4" data-category="kegiatan olahraga">
-                  <a href="img/[NAMA FILE FOTO 8]" class="gallery-item-container">
-                      <img src="img/[NAMA FILE FOTO 8]" alt="Senam Bersama">
+                  <a href="img/IMG_3280.JPG" class="gallery-item-container">
+                      <img src="img/IMG_3280.JPG" alt="Senam Bersama">
                   </a>
               </div>
 
               <div class="col-md-3 mb-4" data-category="kegiatan budaya">
-                  <a href="img/[NAMA FILE FOTO 9]" class="gallery-item-container">
-                      <img src="img/[NAMA FILE FOTO 9]" alt="Parade Busana">
+                  <a href="img/IMG_3288.JPG" class="gallery-item-container">
+                      <img src="img/IMG_3288.JPG" alt="Parade Busana">
                   </a>
               </div>
 
               <div class="col-md-3 mb-4" data-category="kegiatan sosial">
-                  <a href="img/[NAMA FILE FOTO 10]" class="gallery-item-container">
-                      <img src="img/[NAMA FILE FOTO 10]" alt="Kunjungan Panti">
+                  <a href="img/IMG_3398.JPG" class="gallery-item-container">
+                      <img src="img/IMG_3398.JPG" alt="Kunjungan Panti">
                   </a>
               </div>
 
               <div class="col-md-3 mb-4" data-category="kegiatan olahraga">
-                  <a href="img/[NAMA FILE FOTO 11]" class="gallery-item-container">
-                      <img src="img/[NAMA FILE FOTO 11]" alt="Turnamen Voli">
+                  <a href="img/IMG_3416.JPG" class="gallery-item-container">
+                      <img src="img/IMG_3416.JPG" alt="Turnamen Voli">
                   </a>
               </div>
 
               <div class="col-md-3 mb-4" data-category="kegiatan budaya">
-                  <a href="img/[NAMA FILE FOTO 12]" class="gallery-item-container">
-                      <img src="img/[NAMA FILE FOTO 12]" alt="Tari Tradisional">
+                  <a href="img/IMG_3444.JPG" class="gallery-item-container">
+                      <img src="img/IMG_3444.JPG" alt="Tari Tradisional">
                   </a>
               </div>
 
               <div class="col-md-3 mb-4" data-category="kegiatan sosial">
-                  <a href="img/[NAMA FILE FOTO 13]" class="gallery-item-container">
+                  <a href="img/" class="gallery-item-container">
                       <img src="img/[NAMA FILE FOTO 13]" alt="Penyuluhan Kesehatan">
                   </a>
               </div>
