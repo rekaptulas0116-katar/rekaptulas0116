@@ -121,9 +121,9 @@
     <section id="contact" class="content-section">
         <h2>Kontak Kami</h2>
         <p>Jika Anda memiliki pertanyaan, saran, atau ingin berpartisipasi dalam kegiatan kami, jangan ragu untuk menghubungi:</p>
-        <p><strong>Email:</strong> <a href="mailto:karangtarunarekaptulas@email.com">karangtarunarekaptulas@email.com</a></p>
-        <p><strong>Telepon/WhatsApp:</strong> <a href="https://wa.me/6281234567890" target="_blank">+62 812-3456-7890</a></p>
-        <p><strong>Instagram:</strong> <a href="https://www.instagram.com/karangtarunarekaptulas" target="_blank">@karangtarunarekaptulas</a></p>
+        <p><strong>Email:</strong> <a href="mailto:rekaptulas0116@gmail.com">rekaptulas0116@gmail.com</a></p>
+        <p><strong>Telepon/WhatsApp:</strong> <a href="https://wa.me/6281281948632" target="_blank">+62-812-8194-8632</a></p>
+        <p><strong>Instagram:</strong> <a href="https://www.instagram.com/rekaptulas_id" target="_blank">@rekaptulas_id</a></p>
         <p>Kami akan dengan senang hati membantu Anda!</p>
     </section>
 </div> <footer>
